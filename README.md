@@ -1,3 +1,3 @@
 # Colocating GraphQL Fragments
 
-Video: Coming soon!
+Video: https://youtu.be/yqq0ruWnObA
